@@ -42,8 +42,8 @@
     "husky": "^1.1.0"
   },
   "peerDependencies": {
-    "react": "^16.5.2",
-    "react-native": "^0.57.1"
+    "react": "^18.2.0",
+    "react-native": "^0.70.0"
   },
   "dependencies": {
     "prop-types": "^15.6.2",
